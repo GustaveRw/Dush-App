@@ -1,0 +1,9 @@
+body {
+  max-width: 1400px;
+   background-image: url("cover.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding-left: 20%;
+  padding-right:  20%;
+  padding-top: 10%;
+}
